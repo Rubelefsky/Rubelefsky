@@ -7,7 +7,10 @@
 
 ### 👨‍💻 About Me :
 
-- ℹ️ IT Support Engineer and Cloud Computing Student at WGU 🏫
+- ℹ️ IT Support Engineer
+- Cloud Computing Student at WGU 🏫
+
+Visit https://rublefsky.com
 
 
 
