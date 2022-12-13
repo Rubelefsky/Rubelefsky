@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- ℹ️ IT Support Engineer and Software Development Student at WGU 🏫
+- ℹ️ IT Support Engineer and Cloud Computing Student at WGU 🏫
 
 
 
