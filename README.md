@@ -10,6 +10,15 @@
 - ℹ️ IT Support Engineer
 - Cloud Computing Student at WGU 🏫
 
+### Certifications:
+- AWs CCP
+- LPI Linux Essentials
+- ITIL v4 Foundations
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA Project+
+- CompTIA A+
+
 Visit https://rubelefsky.com
 
 Shoot me an email at br@rubelefsky.com ⚡
