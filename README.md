@@ -11,7 +11,7 @@
 - Cloud Computing Student at WGU 🏫
 
 ### Certifications:
-- AWs CCP
+- AWS CCP
 - LPI Linux Essentials
 - ITIL v4 Foundations
 - CompTIA Network+
