@@ -8,12 +8,13 @@
 ### 👨‍💻 About Me :
 
 - ℹ️ IT Support Engineer
-- Cloud Computing Student at WGU 🏫
+- Information Technology Student at WGU 🏫
 
 ### Certifications:
 - AWS CCP
 - LPI Linux Essentials
 - ITIL v4 Foundations
+- CompTIA Cloud+
 - CompTIA Network+
 - CompTIA Security+
 - CompTIA Project+
