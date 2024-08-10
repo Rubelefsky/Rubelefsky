@@ -22,13 +22,6 @@
 
 Visit https://rubelefsky.com
 
-Coming Soon:
-
-<h2>https://nycitsupport.com</h2>
-<h2>https://nycitpro.com</h2>
-
-
-
 Shoot me an email at br@rubelefsky.com ⚡
 
 
