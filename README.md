@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- ℹ️ IT Support Engineer
+- ℹ️ IT Support Engineer @ Siepe
 - Information Technology Student at WGU 🏫
 
 ### Certifications:
