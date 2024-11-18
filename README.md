@@ -24,6 +24,7 @@ Visit https://rubelefsky.com
 
 Shoot me an email at br@rubelefsky.com ⚡
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/650a8b93d5295d7a81280ab5?variant=dark" alt="roadmap.sh"/></a>
 
 
 <!--
