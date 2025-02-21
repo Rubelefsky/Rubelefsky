@@ -8,7 +8,9 @@
 ### 👨‍💻 About Me :
 
 - ℹ️ IT Support Engineer @ Siepe https://www.siepe.com/
-- Information Technology Student at WGU 🏫
+
+### Education:
+BS Information Technology @ WGU
 
 ### Certifications:
 - AWS CCP
