@@ -13,6 +13,7 @@
 BS Information Technology @ WGU
 
 ### Certifications:
+- Microsoft AZ-900
 - AWS CCP
 - LPI Linux Essentials
 - ITIL v4 Foundations
