@@ -10,6 +10,7 @@
 - ℹ️ IT Support Engineer @ Siepe https://www.siepe.com/
 
 ### Education:
+MBA IT Management @ WGU | Current
 BS Information Technology @ WGU
 
 ### Certifications:
