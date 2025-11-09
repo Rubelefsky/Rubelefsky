@@ -4,7 +4,7 @@
   # 👋 Welcome to my GitHub Profile!
 
   [![Website](https://img.shields.io/badge/Website-rubelefsky.com-blue?style=for-the-badge&logo=google-chrome)](https://rubelefsky.com)
-  [![Email](https://img.shields.io/badge/Email-br@rubelefsky.com-red?style=for-the-badge&logo=gmail)](mailto:br@rubelefsky.com)
+  [![Email](https://img.shields.io/badge/Email-br@rubelefsky.com-red?style=for-the-badge&logo=gmail)](mailto:contact@rubelefsky.com)
 
 </div>
 
