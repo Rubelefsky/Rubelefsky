@@ -52,7 +52,7 @@ I'm an **IT Support Engineer** at [Siepe](https://www.siepe.com/), passionate ab
 
 <div align="center">
 
-💼 **Professional Inquiries**: [br@rubelefsky.com](mailto:br@rubelefsky.com)
+💼 **Professional Inquiries**: [information@rubellgroup.com](mailto:information@rubellgroup.com)
 
 🌐 **Portfolio**: [rubelefsky.com](https://rubelefsky.com)
 
